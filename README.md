@@ -15,3 +15,7 @@
 [week_3](https://github.com/hsiehkl/Python-for-Humanities/blob/master/week_3/Week_3.ipynb)
 
 ## week_4
++ Python data structure I
++ Play with Python conditional expression
+
+[week_4](https://github.com/hsiehkl/Python-for-Humanities/blob/master/week_4/Week_4.ipynb)

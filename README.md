@@ -5,3 +5,13 @@
 + Play with Python print()
 
 [week_2](https://github.com/hsiehkl/Python-for-Humanities/blob/master/week_2/Week_2.ipynb)
+
+
+## week_3
++ Break down a problem to smaller pieces
++ Search author by given book id
++ Play with Python eval()、input()
+
+[week_3](https://github.com/hsiehkl/Python-for-Humanities/blob/master/week_3/Week_3.ipynb)
+
+## week_4

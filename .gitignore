@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+01_checkout.py
+02_dynasty.py
+03_currency.py
+movie.py
+cats.py
+piaget_partial.py

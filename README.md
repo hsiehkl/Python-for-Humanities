@@ -19,3 +19,9 @@
 + Play with Python conditional expression
 
 [week_4](https://github.com/hsiehkl/Python-for-Humanities/blob/master/week_4/Week_4.ipynb)
+
+## week_6
++ Python data structure II
++ Built-in Type application
+
+[week_6](https://github.com/hsiehkl/Python-for-Humanities/blob/master/week_6/Week_6.ipynb)

@@ -25,3 +25,15 @@
 + Built-in Type application
 
 [week_6](https://github.com/hsiehkl/Python-for-Humanities/blob/master/week_6/Week_6.ipynb)
+
+## week_7
++ Flow control
++ Iteration
+
+[week_7](https://github.com/hsiehkl/Python-for-Humanities/blob/master/week_7/Week_7.ipynb)
+
+## week_8
++ Understand and import module
++ Built-in and self-defined function
+
+[week_8](https://github.com/hsiehkl/Python-for-Humanities/blob/master/week_8/Week_8.ipynb)

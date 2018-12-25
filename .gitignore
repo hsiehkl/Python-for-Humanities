@@ -102,6 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# vscode
+.vscode/
+
+# in_class file
 01_checkout.py
 02_dynasty.py
 03_currency.py

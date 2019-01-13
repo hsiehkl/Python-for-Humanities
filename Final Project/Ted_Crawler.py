@@ -5,7 +5,7 @@ import urllib.request
 from enum import Enum
 import os
 import json
-import words
+import Words
 
 class Endpoints:
 
@@ -189,7 +189,7 @@ class TedCrawler:
         """
 
         transcript_url = (self.base_url) + "/talks/" + talk_id + Endpoints().transcript
-        print("transcript_url: " + transcript_url)
+        #print("transcript_url: " + transcript_url)
 
         try:
             transcript_page = requests.get(transcript_url, headers = self.headers)
@@ -202,5 +202,5 @@ class TedCrawler:
         transcript_text = transcript_soup.text
         transcript_json = json.loads(transcript_text)
 
-        text_converter = words.Text_converter(transcript_json)
+        text_converter = Words.Text_converter(transcript_json)
         return text_converter.parse_text()

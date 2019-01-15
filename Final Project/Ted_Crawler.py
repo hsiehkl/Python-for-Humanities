@@ -202,5 +202,5 @@ class TedCrawler:
         transcript_text = transcript_soup.text
         transcript_json = json.loads(transcript_text)
 
-        text_converter = Words.Text_converter(transcript_json)
+        text_converter = words.Text_converter(transcript_json)
         return text_converter.parse_text()

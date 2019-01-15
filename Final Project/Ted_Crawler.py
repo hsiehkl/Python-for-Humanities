@@ -5,7 +5,7 @@ import urllib.request
 from enum import Enum
 import os
 import json
-import Words
+import words
 
 class Endpoints:
 
